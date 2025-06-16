@@ -1,2 +1,1 @@
-# express-pg-starter
-# express-pg-starter
+# A basic Node.js + Express API to learn how to connect to a PostgreSQL database.
